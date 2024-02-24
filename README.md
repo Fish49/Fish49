@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @Fish49
-- 👀 I’m interested in Pai Sho, 3D modeling, physics, ancient china stuff, art, so on.
-- 🌱 I’m currently learning coding, more modeling, and I am trying to improve on almost everything I do.
-- 💞️ I’m looking to collaborate on anything, but just know im not great at coding.
-- 📫 How to reach me : You can reach me by my email ; beebfish49@gmail.com or my Discord ; paishofish49
+### Hej! 👋
 
-<!---
-Fish49/Fish49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im Joseph, a highschool software developer with ambitious intentions and a curious mind.
+Pronouns: He/Him
+✨💅✨
+
+I know and love:
+- python 🐍
+- HTML 
+- CSS
+- Scratch 🐈
+
+Im learning:
+- Java ☕
+- C#
+
+I want to learn:
+- JS
+- C++
+- Assembly
+- Practically Everything 🤦
+
+Right now im working on:
+- A minesweeper bot that can quickly get world record runs.
+- surviving life as a teen (my computer science teacher doesnt know any computer science.)
+- finding friends
+
+I also do:
+- Robotics
+- 3D printing
+- 3D modelling
+- CG and 2D art
+- Minecraft
+- Listen to C418 & AJR
+- Physics
+- Litterally anything STEAM
+- VR
+- Game Dev
+
+Ask me anything! Im willing to collaberate, communicate, and share! to reach me, try my personal account: Fish49.
