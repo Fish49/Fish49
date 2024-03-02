@@ -2,7 +2,6 @@
 
 Im Joseph, a highschool software developer with ambitious intentions and a curious mind.
 Pronouns: He/Him
-✨💅✨
 
 I know and love:
 - python 🐍
@@ -37,4 +36,8 @@ I also do:
 - VR
 - Game Dev
 
-Ask me anything! Im willing to collaberate, communicate, and share! to reach me, try my personal account: Fish49.
+How you can reach me:
+- at my discord: paishofish49 💬
+- email me: beebfish49@gmail.com ✉️
+
+Ask me anything! Im willing to collaberate, communicate, and share!
