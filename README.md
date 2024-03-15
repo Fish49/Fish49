@@ -21,7 +21,7 @@ I want to learn:
 
 Right now im working on:
 - A minesweeper bot that can quickly get world record runs.
-- surviving life as a teen (my computer science teacher doesnt know any computer science.)
+- surviving life as a teen.
 - finding friends
 
 I also do:
