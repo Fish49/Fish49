@@ -1,11 +1,11 @@
 ### Hej! 👋
 
-Im Joseph, a highschool software developer with ambitious intentions and a curious mind.
-Pronouns: He/Him
+Im Joseph, a highschool software developer with ambitious intentions and a curious mind.  
+*He/Him*
 
 I know and love:
 - python 🐍
-- HTML 
+- HTML
 - CSS
 - Scratch 🐈
 
