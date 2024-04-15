@@ -20,7 +20,8 @@ I want to learn:
 - Practically Everything 🤦
 
 Right now im working on:
-- A minesweeper bot that can quickly get world record runs.
+- A 2048 solving bot
+- Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek)
 - surviving life as a teen.
 - finding friends
 
