@@ -8,15 +8,19 @@ I know and love:
 - HTML
 - CSS
 - Scratch 🐈
+- Svelte
 
 Im learning:
+- JS
 - Java ☕
 - C#
+- SQL
+- Swedish
 
 I want to learn:
-- JS
 - C++
 - Assembly
+- How to set up a web app
 - Practically Everything 🤦
 
 Right now im working on:
