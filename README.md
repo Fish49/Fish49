@@ -1,7 +1,7 @@
 ### Hej! 👋
 
 Im Joseph, a highschool software developer with ambitious intentions and a curious mind.  
-*He/Him*
+*He/Him (or any)*
 
 I know and love:
 - python 🐍
