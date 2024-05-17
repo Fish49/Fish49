@@ -28,6 +28,7 @@ Right now im working on:
 - Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek)
 - surviving life as a teen.
 - finding friends
+- competitor to Adobe Illustrator and Inkscape
 
 I also do:
 - Robotics
