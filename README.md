@@ -29,7 +29,6 @@ Right now im working on:
 - surviving life as a teen.
 - finding friends
 - competitor to Adobe Illustrator and Inkscape
-- svg color sorting algorithm
 
 I also do:
 - Robotics
