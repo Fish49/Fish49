@@ -30,7 +30,6 @@ Right now im working on:
 - Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek) 🌌
 - competitor to Adobe Illustrator and Inkscape 🖼️
 - Portfolio Website ✨
-- WordTrip Solver 🔠
 - 3d printer/cartesian robotics 🖨️
 - surviving life as a teen. 😔
 
