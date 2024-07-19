@@ -26,10 +26,11 @@ I want to learn:
 - Practically Everything 🤦
 
 Right now im working on:
-- A 2048 solving bot 🎯
+- SkudPaiSho bot ♟️
 - Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek) 🌌
-- competitor to Adobe Illustrator and Inkscape 🖼️
 - Portfolio Website ✨
+- competitor to Adobe Illustrator and Inkscape 🖼️
+- A 2048 solving bot 🎯
 - 3d printer/cartesian robotics 🖨️
 - surviving life as a teen. 😔
 
