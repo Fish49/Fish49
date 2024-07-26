@@ -27,6 +27,7 @@ I want to learn:
 
 Right now im working on:
 - SkudPaiSho bot ♟️
+- Sound wave matching
 - Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek) 🌌
 - Portfolio Website ✨
 - competitor to Adobe Illustrator and Inkscape 🖼️
