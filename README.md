@@ -26,6 +26,7 @@ I want to learn:
 - Practically Everything 🤦
 
 Right now im working on:
+- Making music programatically
 - SkudPaiSho bot ♟️
 - Sound wave matching
 - Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek) 🌌
