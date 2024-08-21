@@ -26,9 +26,9 @@ I want to learn:
 - Practically Everything 🤦
 
 Right now im working on:
-- Making music programatically
+- Making music programatically 🎶
 - SkudPaiSho bot ♟️
-- Sound wave matching
+- Sound wave matching 🎵
 - Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek) 🌌
 - Portfolio Website ✨
 - competitor to Adobe Illustrator and Inkscape 🖼️
@@ -42,11 +42,11 @@ I also do:
 - 3D modelling 🗿
 - CG and 2D art 🖼️
 - Minecraft ⛏️
-- Listen to C418 & AJR 🎵
 - Physics / Math 🧮
 - Litterally anything STEAM 🗿
 - VR ✨
 - Game Dev 🎮
+- Listen to music - [Lyrical Bangers](https://open.spotify.com/playlist/2aDIzumAHPqAmHG4qX4WKf?si=b33ad30306d44ba1&pt=52e57dc1e8db93c6b85ce464060bca22), [Non-Lyrical Vibes](https://open.spotify.com/playlist/1Z3gXgNE8heDtkiSYgYKwJ?si=7ec38b9f666442f0&pt=5794c7f8d2bebec172fa52ddb4acadb4) 🎵
 
 How you can reach me:
 - at my discord: paishofish49 🗨️
