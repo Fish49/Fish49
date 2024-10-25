@@ -27,6 +27,7 @@ I want to learn:
 
 Right now im working on:
 - Making music programatically 🎶
+- A bot that plays air hockey against you 🏒
 - SkudPaiSho bot ♟️
 - Sound wave matching 🎵
 - Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek) 🌌
