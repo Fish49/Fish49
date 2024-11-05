@@ -15,6 +15,8 @@ Im learning:
 - Java ☕
 - C# 🎮
 - C++ / Arduino 🤖
+- ASL 👋
+- Steno ⌨️
 - SQL 🧮
 - Swedish 🇸🇪
 
@@ -22,7 +24,7 @@ I want to learn:
 - AI 👾
 - Assembly 💽
 - How to set up a web app 🕸️
-- Morse Code, ASL, and several other languages such as Finnish and German. 🌍
+- Morse Code and several other languages such as Finnish and German. 🌍
 - Practically Everything 🤦
 
 Right now im working on:
