@@ -1,0 +1,5 @@
+I have a pretty significant github contribution streak currently, with only a few missed days. I have decided to stop making daily contributions, starting tomorrow.
+The reason for this is that I feel like it has made me discouraged to code. Now instead of coding because im passionate about the projects, I am coding to save a streak.
+Most of my commits to github arent even helpful contributions, just small commits to save my streak. I will take a break from coding github projects and wait for inspiration to hit me before coding again.
+I will still contribute to projects, and I will still participate in competitive programming events. I also plan to make frequent commits to github, but instead of making small daily commits, I will make bigger, more valubale commits less frequently.
+This will not affect my desire to continue my Duolingo streak. 🦉🟢
