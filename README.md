@@ -10,14 +10,13 @@ I know and love:
 - CSS ✨
 - Scratch 🐈
 - Svelte 🈸
+- C++ / Arduino 🤖
 
 Im learning:
 - Java ☕
 - C# 🎮
-- C++ / Arduino 🤖
 - ASL 👋
 - Steno ⌨️
-- SQL 🧮
 - Swedish 🇸🇪
 
 I want to learn:
@@ -28,15 +27,9 @@ I want to learn:
 - Practically Everything 🤦
 
 Right now im working on:
-- Making music programatically 🎶
+- Steno Lyrics Game 🔠
 - A bot that plays air hockey against you 🏒
-- SkudPaiSho bot ♟️
-- Sound wave matching 🎵
 - Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek) 🌌
-- Portfolio Website ✨
-- competitor to Adobe Illustrator and Inkscape 🖼️
-- A 2048 solving bot 🎯
-- 3d printer/cartesian robotics 🖨️
 - surviving life as a teen. 😔
 
 I also do:
