@@ -14,6 +14,7 @@
 - python library for solving Apollonius problems (creating shapes tangent to multiple existing shapes)
 - brainfuck IDE with many features (already made a python library that can initialize brainfuck state with few characters)
 - Minecraft computer, fast, full color, internet and port capabilities, von neumann architecture
+- timeline app to organize the order of events in my life. this will help my with my memory probably.
 
 *repo already exists, but hasent seen activity in a while (little progress on the project)
 
