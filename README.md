@@ -20,9 +20,7 @@ Im learning:
 - Swedish 🇸🇪
 
 I want to learn:
-- AI 👾
 - Assembly 💽
-- How to set up a web app 🕸️
 - Morse Code and several other languages such as Finnish and German. 🌍
 - Practically Everything 🤦
 
@@ -30,7 +28,6 @@ Right now im working on:
 - Steno Lyrics Game 🔠
 - A bot that plays air hockey against you 🏒
 - Sabacc Website - [Sabacc Online](http://sabacc.samuelanes.com/),  [Discord Server](https://discord.gg/cSYRyqufek) 🌌
-- surviving life as a teen. 😔
 
 I also do:
 - Robotics 🤖
